@@ -1,5 +1,6 @@
-Intern challenge for White Whale
-**Code Challenge: Gibberish Generator**
+####Intern challenge for White Whale
+
+**Code Challenge: Gibberish Algorithm**
 ---------------------------------------
 
 Challenge Overview
