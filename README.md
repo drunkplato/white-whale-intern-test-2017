@@ -1,4 +1,3 @@
-# whitewhaleintern
 Intern challenge for White Whale
 **Code Challenge: Gibberish Generator**
 ---------------------------------------
