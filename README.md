@@ -12,7 +12,7 @@ We are exticed taht you are intsereted in joiinng Wihte Wahle for the smumer.  W
   - You may use *almost any* programming language... it's your choice.  See the supported options [here](http://ideone.com/).
   - Your program should leave the first and last letter of each word in place and scramble the rest.
   - Your program should not scamble punctuation (.,-'...etc.), numbers, or upper-case abbreviations.
-  - For example gibberish, see the [/textfiles] folder. 
+  - For example gibberish, see the [/text_files] folder. 
 
 **Input/Output:**
  
