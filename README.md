@@ -29,21 +29,17 @@ What to do
 ----------
 1. [Download](http://git-scm.com/downloads) & install Git on your machine
 
-2. <a href="https://github.com/trentgillham/whitewhaleintern/edit/master/README.md#fork-destination-box" class="btn grouped" data-method="POST" rel="nofollow" title="Fork">Fork</a> this project - Go [here](https://gitlab.cs.uno.edu/sweap/gibgen) and click the "Fork" button (located on the upper-right side of the screen)
+2. <a href="https://github.com/trentgillham/whitewhaleintern#fork-destination-box" class="btn grouped" data-method="POST" rel="nofollow" title="Fork">Fork</a> this project - Go [here](https://github.com/trentgillham/whitewhaleintern) and click the "Fork" button (located on the upper-right side of the screen)
 
-2. Clone your new fork'd repository to your local machine - `git clone https://gitlab.cs.uno.edu/YOUR_USERNAME_HERE/gibgen.git`
+2. Clone your new fork'd repository to your local machine - `git clone https://github.com/trentgillham/whitewhaleintern.git`
 3. Complete the code challenge and fill out the Quick Start & Questions in the the README (see below)
 4. `git add` and `git commit` your local repository as you go
-4. Push your code and README back to UNO's GitLab occasionally - `git push origin master`
-5. Email [serp@ge.com](mailto:serp@ge.com) with the Commit URL to your fork'd repository that you want reviewed. It should include at least 2 files: (1) your updated README with Coding Questions answered, and (2) your program (gibgen.xx)
-   - Grant the "SWEAP" user "MASTER"-level access to your repository by going here `https://gitlab.cs.uno.edu/YOUR_USERNAME_HERE/gibgen/team` and clicking the "New Team Member" button.
-   - Then go here: `https://gitlab.cs.uno.edu/YOUR_USERNAME_HERE/gibgen/commits/master`
-   - Find the commit that you'd like us to review.  _The commit date must be on or before 11:59pm (central) on Nov-10!_
-       - Click the "Browse Code ->" link for that commit
+4. Push your code and README back to Github occasionally - `git push origin master`
+5. Email [gillham@whitewhaleanalytics.com](mailto:gillham@whitewhaleanalytics.com) with the Commit URL to your fork'd repository that you want reviewed. It should include at least 2 files: (1) your updated README with Coding Questions answered, and (2) your program (gibgen.xx)
    - Copy and paste the URL into the email along with your name... it should look something like this:
-       - `https://gitlab.cs.uno.edu/YOUR_USERNAME_HERE/gibgen/tree/73afe0c8fe2...hash.hash...e80afea72b6`
+       - https://github.com/YOUR_USERNAME_HERE/whitewhaleintern.git
 
-_Note: If you have any questions, email [serp@ge.com](mailto:serp@ge.com).  I will do my best to respond to any questions Saturday & Sunday evening._
+_Note: If you have any questions, email [gillham@whitewhaleanalytics.com](mailto:gillham@whitewhaleanalytics.com)._
 
 Judging Criteria
 ----------------
