@@ -1,4 +1,4 @@
-####Intern challenge for White Whale
+# Intern challenge for White Whale
 
 **Code Challenge: Gibberish Algorithm**
 ---------------------------------------
