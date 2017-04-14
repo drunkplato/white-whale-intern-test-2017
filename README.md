@@ -13,7 +13,7 @@ We are exticed taht you are intsereted in joiinng Wihte Wahle for the smumer.  W
   - You may use *almost any* programming language... it's your choice.  See the supported options [here](http://ideone.com/).
   - Your program should leave the first and last letter of each word in place and scramble the rest.
   - Your program should not scamble punctuation (.,-'...etc.), numbers, or upper-case abbreviations.
-  - For example gibberish, see the [/textfiles](https://gitlab.cs.uno.edu/sweap/gibgen/tree/master/textfiles) folder.  Two sample output files are provided: `xxx.txt.gib`
+  - For example gibberish, see the [/textfiles] folder. 
 
 **Input/Output:**
  
@@ -29,7 +29,7 @@ What to do
 ----------
 1. [Download](http://git-scm.com/downloads) & install Git on your machine
 
-2. <a href="https://gitlab.cs.uno.edu/sweap/gibgen/fork" class="btn grouped" data-method="POST" rel="nofollow" title="Fork">Fork</a> this project - Go [here](https://gitlab.cs.uno.edu/sweap/gibgen) and click the "Fork" button (located on the upper-right side of the screen)
+2. <a href="https://github.com/trentgillham/whitewhaleintern/edit/master/README.md#fork-destination-box" class="btn grouped" data-method="POST" rel="nofollow" title="Fork">Fork</a> this project - Go [here](https://gitlab.cs.uno.edu/sweap/gibgen) and click the "Fork" button (located on the upper-right side of the screen)
 
 2. Clone your new fork'd repository to your local machine - `git clone https://gitlab.cs.uno.edu/YOUR_USERNAME_HERE/gibgen.git`
 3. Complete the code challenge and fill out the Quick Start & Questions in the the README (see below)
